@@ -11,7 +11,7 @@ function App() {
   return (
     <GlobalProvider>
       <Header />
-      {/* https://youtu.be/XuFDcZABiDQ?t=1053*/}
+      {/* https://youtu.be/XuFDcZABiDQ?t=1446 */}
       <div className="container">
         <Balance />
         <IncomeExpenses />
